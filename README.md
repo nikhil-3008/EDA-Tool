@@ -14,5 +14,6 @@ To run the app locally:
 
 Feel free to explore your data and analyze insights using the tool!
 
-![EDA Tool Screenshot](Screenshot (62).png)
+![EDA Tool Screenshot](Screenshot%20%2862%29.png)
+
 
